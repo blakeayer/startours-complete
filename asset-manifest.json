@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/startours-complete/static/css/main.4f3c21c8.chunk.css",
+    "main.js": "/startours-complete/static/js/main.89399ef3.chunk.js",
+    "main.js.map": "/startours-complete/static/js/main.89399ef3.chunk.js.map",
+    "runtime-main.js": "/startours-complete/static/js/runtime-main.966c60b8.js",
+    "runtime-main.js.map": "/startours-complete/static/js/runtime-main.966c60b8.js.map",
+    "static/js/2.b6fde640.chunk.js": "/startours-complete/static/js/2.b6fde640.chunk.js",
+    "static/js/2.b6fde640.chunk.js.map": "/startours-complete/static/js/2.b6fde640.chunk.js.map",
+    "index.html": "/startours-complete/index.html",
+    "static/css/main.4f3c21c8.chunk.css.map": "/startours-complete/static/css/main.4f3c21c8.chunk.css.map",
+    "static/js/2.b6fde640.chunk.js.LICENSE.txt": "/startours-complete/static/js/2.b6fde640.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.966c60b8.js",
+    "static/js/2.b6fde640.chunk.js",
+    "static/css/main.4f3c21c8.chunk.css",
+    "static/js/main.89399ef3.chunk.js"
+  ]
+}
